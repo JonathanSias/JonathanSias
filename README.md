@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there, I'm Jonathan - aka Sias 👋
 
-<!--
-**JonathanSias/JonathanSias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img align="left" alt="jonathansias | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="jonathan-sias | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="jonathan_sias | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  <img align="left" alt="Sias's Github Stats" src="https://github-readme-stats.jonathansias.vercel.app/api?username=jonathansias&show_icons=true&hide_border=true" />
+
+</details>
+
+[instagram]: https://instagram.com/jonathansias
+[linkedin]: https://linkedin.com/in/jonathan-sias-46190ab8
+[twitter]: https://twitter.com/jonathan_sias
