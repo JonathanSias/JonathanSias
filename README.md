@@ -4,8 +4,9 @@
 [<img align="left" alt="jonathan-sias | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="jonathan_sias | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
-<br />
+<br/>
 
+### Github Stats:
 <details>
   <summary>:zap: Github Stats</summary>
 
