@@ -10,7 +10,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img theme="synthwave" align="left" alt="Sias's Github Stats" src="https://github-readme-stats.jonathansias.vercel.app/api?username=jonathansias&show_icons=true&hide_border=true" />
+  <img align="left" alt="Sias's Github Stats" src="https://github-readme-stats.jonathansias.vercel.app/api?username=jonathansias&theme=radical&show_icons=true&hide_border=true" />
 
 </details>
 
