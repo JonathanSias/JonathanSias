@@ -14,6 +14,10 @@
 
 </details>
 
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathansias)](https://github.com/JonathanSias/github-readme-stats)
+
 [instagram]: https://instagram.com/jonathansias
 [linkedin]: https://linkedin.com/in/jonathan-sias-46190ab8
 [twitter]: https://twitter.com/jonathan_sias
