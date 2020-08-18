@@ -6,13 +6,12 @@
 [<img align="left" alt="jonathan_sias | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br/>
+<br/>
 
-### 
-
-### My Github Top Languages:
+** My Github Top Languages: **
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathansias&theme=radical&hide_border=true)](https://github.com/JonathanSias/github-readme-stats)
 
-### :zap: Github Stats:
+** :zap: Github Stats: **
 <a>
   <img align="left" alt="Sias's Github Stats" src="https://github-readme-stats.jonathansias.vercel.app/api?username=jonathansias&theme=radical&show_icons=true&hide_border=true" />
 </a>
