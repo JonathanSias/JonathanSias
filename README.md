@@ -17,7 +17,7 @@
 <br/>
 
 ### Top Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathansias)](https://github.com/JonathanSias/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathansias&layout=compact)](https://github.com/JonathanSias/github-readme-stats)
 
 [instagram]: https://instagram.com/jonathansias
 [linkedin]: https://linkedin.com/in/jonathan-sias-46190ab8
