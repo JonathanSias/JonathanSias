@@ -9,7 +9,7 @@
 ### 
 
 ### My Github Top Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathansias&theme=radical)](https://github.com/JonathanSias/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathansias&theme=radical&hide_border=true)](https://github.com/JonathanSias/github-readme-stats)
 
 ### 
 <details>
