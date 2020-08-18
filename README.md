@@ -9,13 +9,13 @@
 ### 
 
 ### My Github Top Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathansias)](https://github.com/JonathanSias/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathansias&theme=radical)](https://github.com/JonathanSias/github-readme-stats)
 
 ### 
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="Sias's Github Stats" src="https://github-readme-stats.jonathansias.vercel.app/api?username=jonathansias&theme=radical&show_icons=true&include_all_commits=true&show_icons=true&hide_border=true" />
+  <img align="left" alt="Sias's Github Stats" src="https://github-readme-stats.jonathansias.vercel.app/api?username=jonathansias&theme=radical&show_icons=true&hide_border=true" />
 
 </details>
 
