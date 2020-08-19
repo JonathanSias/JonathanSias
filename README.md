@@ -22,7 +22,7 @@
 ### My Github Top Languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathansias&theme=radical&hide_border=true)](https://github.com/JonathanSias/github-readme-stats)
 
-### :zap: Github Stats:
+### :zap: My Github Stats:
 <a>
   <img align="left" alt="Sias's Github Stats" src="https://github-readme-stats.jonathansias.vercel.app/api?username=jonathansias&theme=radical&show_icons=true&hide_border=true" />
 </a>
